@@ -20,3 +20,4 @@ https://airtable.com
 ```
 3. Criar uma nova tabela de dados.
 
+# EquipeEnergyControl
